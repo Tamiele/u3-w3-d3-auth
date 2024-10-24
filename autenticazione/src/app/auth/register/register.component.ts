@@ -16,8 +16,6 @@ export class RegisterComponent {
   register() {
     this.authSvc.register(this.formRegister).subscribe((res) => {
       this.router.navigate(['/auth/login']);
-
-      console.log(this.formRegister);
     });
   }
 }

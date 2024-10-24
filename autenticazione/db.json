@@ -1,3 +1,16 @@
 {
-  "user": []
+  "users": [
+    {
+      "email": "Tammaro_85@hotmail.it",
+      "password": "$2a$10$2j9HjSJZ5aZrFwO/exb0Q.cn3/1c0IavbRVSmDfRnDU0O02t4p5Je",
+      "name": "GIUSEPPE",
+      "id": 1
+    },
+    {
+      "email": "giappo@hotmail.it",
+      "password": "$2a$10$GyJK9LzU.uPm55mzrrjT/erfYg5i26YVp5XAvGaphObgwl04Yieae",
+      "name": "Tammaro",
+      "id": 2
+    }
+  ]
 }
